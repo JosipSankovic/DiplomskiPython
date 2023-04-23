@@ -1,0 +1,7 @@
+cv2
+numpy
+supervision
+dataset.labels.txt
+supervision-0.5.2.dist-info
+ultralytics
+best.py
